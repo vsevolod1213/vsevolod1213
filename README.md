@@ -41,11 +41,12 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.24-02569B?logo=flutter&logoColor=white&style=flat)
 
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Aiogram](https://img.shields.io/badge/Aiogram-3.12-229ED9?logo=telegram&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115-02A892?logo=fastapi&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-Rice-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containerization-0DB7ED?logo=docker&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-3.24-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Aiogram](https://img.shields.io/badge/Aiogram-229ED9?logo=telegram&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-02A892?logo=fastapi&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?logo=docker&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+
