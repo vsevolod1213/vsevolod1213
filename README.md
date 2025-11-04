@@ -31,7 +31,7 @@
 </p>
 
 
-![Python]([https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat](https://camo.githubusercontent.com/07858da9ad3cd19f1e10777508bf1b5470f22f8eb0b3ceaa425e2ff85461e30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465))
+![Python](https://camo.githubusercontent.com/07858da9ad3cd19f1e10777508bf1b5470f22f8eb0b3ceaa425e2ff85461e30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 ![Aiogram](https://img.shields.io/badge/Aiogram-3.12-229ED9?logo=telegram&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-02A892?logo=fastapi&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
