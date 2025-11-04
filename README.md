@@ -37,53 +37,13 @@ TailwindCSS, Vanilla JS, Linux, Arch, Docker
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-3.12-FFD43B?logo=python&logoColor=black&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Aiogram-3.12-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Aiogram-3.12-229ED9?logo=telegram&logoColor=white&style=for-the-badge" />
-  <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-3.12-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FastAPI-0.115-02A892?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TailwindCSS-4.0-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vanilla_JS-ES6-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vanilla_JS-ES6-F0DB4F?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img alt="JS" src="https://img.shields.io/badge/Vanilla_JS-ES6-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Arch_Linux-Rice-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arch_Linux-Rice-00B6FF?logo=archlinux&logoColor=white&style=for-the-badge" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-Rice-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-Containerization-0DB7ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-3.24-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flutter-3.24-45D1FD?logo=flutter&logoColor=white&style=for-the-badge" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.24-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-</picture>
-
+![Python](https://img.shields.io/badge/Python-3.12-FFD43B?logo=python&logoColor=black&style=for-the-badge)
+![Aiogram](https://img.shields.io/badge/Aiogram-3.12-229ED9?logo=telegram&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-02A892?logo=fastapi&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![JS](https://img.shields.io/badge/JS-ES6-F0DB4F?logo=javascript&logoColor=black&style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-Rice-00B6FF?logo=archlinux&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-0DB7ED?logo=docker&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-3.24-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 
 
