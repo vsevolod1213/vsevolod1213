@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**vsevolod1213/vsevolod1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет, я Всеволод 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>💻 Программист | 🎧 ASR/Whisper проекты | ☁️ Telegram & SaaS микросервисы</b><br>
+  <i>Люблю автоматизацию, UX и красивые архитектуры</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Текущие проекты
+- 🎙️ **Whisper Bot** — телеграм-бот для расшифровки аудио → [whisper](https://github.com/vsevolod1213/whisper)
+- 🧩 **YVPN** — VPN-бот с биллингом, X-UI и trial-логикой  
+- 🌐 **me.card** — сайт-визитка с Tailwind CSS и анимацией
+
+---
+
+### ⚙️ Технологии
+```python
+Python, Aiogram 3, FastAPI, Whisper, CTranslate2,
+TailwindCSS, Vanilla JS, Linux, Arch, Docker
