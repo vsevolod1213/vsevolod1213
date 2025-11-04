@@ -36,9 +36,15 @@ TailwindCSS, Vanilla JS, Linux, Arch, Docker
   </picture>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![Aiogram](https://img.shields.io/badge/Aiogram-3.12-lightblue?logo=telegram)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-love-blue?logo=archlinux)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Aiogram](https://img.shields.io/badge/Aiogram-3.12-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-AI-9B59B6?logo=openai&logoColor=white&style=for-the-badge)
+![CTranslate2](https://img.shields.io/badge/CTranslate2-Optimized-1E90FF?logo=neovim&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-ES6-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Unix-black?logo=linux&logoColor=white&style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-Rice-blue?logo=archlinux&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
