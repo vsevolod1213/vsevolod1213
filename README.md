@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Привет, я Всеволод 👋</h1>
 
 <p align="center">
