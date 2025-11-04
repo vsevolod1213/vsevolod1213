@@ -20,7 +20,7 @@
 Python, Aiogram 3, FastAPI, Whisper, CTranslate2,
 TailwindCSS, Vanilla JS, Linux, Arch, Docker
 
-
+```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsevolod1213&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolod1213&layout=compact&theme=tokyonight" height="150"/> </p>
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
