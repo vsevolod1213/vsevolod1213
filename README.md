@@ -21,9 +21,24 @@ Python, Aiogram 3, FastAPI, Whisper, CTranslate2,
 TailwindCSS, Vanilla JS, Linux, Arch, Docker
 
 ```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsevolod1213&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolod1213&layout=compact&theme=tokyonight" height="150"/> </p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=vsevolod1213&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=vsevolod1213&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vsevolod1213&show_icons=true" height="150" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolod1213&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolod1213&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolod1213&layout=compact" height="150" />
+  </picture>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Aiogram](https://img.shields.io/badge/Aiogram-3.12-lightblue?logo=telegram)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-love-blue?logo=archlinux)
+
+
