@@ -8,7 +8,8 @@
 ---
 
 ### 🧠 Current projects
-- 🎙️ **[whisper](https://github.com/vsevolod1213/whisper)** — Telegram-bot for transcription audio & video  
+- 🎙️ **[filety](https://github.com/vsevolod1213/filety_core)** — a web-service for working with files: currently only transcription, in the future there will be more functions.
+Also includes a telegram-bot for transcription audio & video  
 - 🌐 **[me.card](https://github.com/vsevolod1213/me.card)** — step-by-step to create sites
 - 🧩 **YVPN** — VPN-bot with billing, X-UI & trial-logic
 - 🤳 **[wunder](https://github.com/ChabanovX/wunder)** - flutter-app & web for video-calling
