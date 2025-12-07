@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vsevolod 👋</h1>
 
 <p align="center">
-  <b> Full stack developer</b>
+  <b> Full stack developer</b><br>
   <b>☁️ Telegram | micro-SaaS | RAG | Flutter-apps </b><br>
   <i> UX, DevOps & Backend, architectures , automatisation </i>
 </p>
